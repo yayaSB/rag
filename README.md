@@ -151,3 +151,13 @@ Create a `.env` file in the root directory of the project and add the following 
 
 ```env
 OPENAI_API_KEY=your_openai_api_key_here
+```
+## Running the Application
+
+After completing the installation steps, you can start the Streamlit application.
+
+Run the following command in the project directory:
+
+```bash
+streamlit run ragmultiple.py
+```
